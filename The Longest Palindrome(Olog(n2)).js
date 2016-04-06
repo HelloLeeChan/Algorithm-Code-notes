@@ -34,4 +34,4 @@ function logestPalindrome(str){
     return longest.length
 
 }
-console.log(logestPalindrome('abba'))
+//console.log(logestPalindrome('abbacshgdisggdisgdgsyfssssddsdfhfgdgdgydgydgfydgfyfdfdfdggabbbbbbbbbba'))
